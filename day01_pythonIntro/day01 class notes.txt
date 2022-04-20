@@ -1,0 +1,56 @@
+Python Programming Day01
+
+Topics: Python Intro
+		Project Setup
+		Print Method
+		Single line & Multi-line Comments
+		Escape Sequences
+
+
+
+
+File types:
+	.txt
+	.pdf
+	.pptx
+	.doc
+	.jpg
+	.png
+	...
+
+	.py
+
+
+123111122211111
+
+Project Name: pythonProgramming2022
+
+Python Package: day01_python_intro
+
+
+how to share codes in task_solution:
+
+		```python
+
+			code fragments
+
+		```
+
+Tomorrow' topics:
+		1. Variables
+		2. Casting
+		3. Concatenation
+		4. Operators
+
+Tasks:
+	1. Create a Python project named selfPractice
+	2. Create a package named day01_practice
+	3. Create a python file AboutMe.java
+            write a program to tell us about yourself:
+                    favotite music
+                    favorite book
+                    favorite quote
+                    favorite TV show
+
+
+
