@@ -1,0 +1,13 @@
+Python Programming Day02
+
+Topics: Variables
+		Casting
+		String Concatenation
+		Operators:
+				Arithmetic
+				Shorthand
+				Relational
+				Logical
+				Membership
+
+Pakcage name: day02_var_cast_concate_operators
