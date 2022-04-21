@@ -1,0 +1,10 @@
+Python Programming Day03
+
+Topics: String Manipulation
+		Getting User Input
+		If Statements
+
+package name: day03_string_input_if
+
+
+
