@@ -1,0 +1,67 @@
+
+1. Create a python file named Square, write a program that can calculate the area & perimeter of any given square 
+
+        Hint: side need to be given to calculate the area and perimeter of square
+            Ex:
+                Given Data:
+                    side = 5
+
+                output:
+                    Area of the square is equal to 25
+                    Perimeter of square is equal to 20
+                
+2. Create a python file named Rectangle, write a program that can calculate the area & perimeter of any given Rectangle
+
+        Hint: width and length need to be given to calculate the area and perimeter of rectangle
+            Ex:
+                Given Data:
+                    length = 5
+                    width = 2
+
+                output:
+                    Area of the rectangle is equal to 10
+                    Perimeter of rectangle is equal to 20
+
+3. Create a python file named KgToPounds, write a program that can convert kg to pounds 
+            Hints: 1 kg = 2.2 pounds
+
+            Ex:
+                Given data:
+                    kg = 100
+
+                output:
+                    100 kg is equal to 220 pounds
+
+4. Create a class named GallonsToLitters, Write a program that can convert gallon (int) to litter (double)
+            Hints: 1 gallon = 3.79 litters
+            Ex:
+                Given Data:
+                     gallon = 10
+
+                output:
+                    10 gallon is equal to 37.9 litters
+
+5. create a python file named Phone Number and declare the following variables:
+            countryCode, areaCode, localNumber
+
+            use string concatenation to display the phone number
+            ex:
+                if  countryCode = 1
+                    areaCode = 703
+                    localNumber = 4512625
+
+                output:
+                    Your phone number is +1(703)-4512625
+
+6. Create a python file named BirthDay and create the following variable
+             name, birthDay, birthMonth, birthYear
+
+             use concatenation to display the birthday of the person
+
+                 if  name = "John"
+                     birthDay = 25
+                     birthMonth = "April"
+                     birthYear = 1995;
+
+                 output:
+                     John was born on April/25/1995.
