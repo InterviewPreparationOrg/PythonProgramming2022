@@ -3,7 +3,7 @@ number = 1
 has28Days = number == 2
 has30Days = number == 4 or number == 6 or number == 9 or number == 11
 
-if 1 < number < 12:  # precondition: number must be between 1 ~ 12
+if 1 <= number <= 12:  # precondition: number must be between 1 ~ 12
 
     if has28Days:
         print('28 days')
