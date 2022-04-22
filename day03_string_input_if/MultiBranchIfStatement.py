@@ -39,3 +39,13 @@ elif day ==6:
     print('Saturday')
 else:
     print('Sunday')
+
+print("----------------------------------------")
+
+month = 1
+
+# write a program that can print the name of the month
+
+
+
+
