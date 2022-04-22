@@ -1,4 +1,9 @@
+name = input('Enter your name:\n')
+rate = float(input('Enter your hourly rate:\n'))
+weeklyHour = int(input('How many hours do you work in a week?:\n'))
+salary = (rate * weeklyHour * 52)
 
+print(f'Hello {name}, your salary is ${salary}')
 """
 3. Create a python file named SalaryCalculator
 	    	1.1 Ask the user to enter the following info:
