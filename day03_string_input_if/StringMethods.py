@@ -67,3 +67,43 @@ sentence2 = 'python is the easiest programming language, I love python'
 print(sentence2.index('p'))
 print(sentence2.index('pr'))
 print(sentence2.rindex('p'))
+
+print('---------------------------------------')
+
+sentence = 'I love Java programming language'
+sentence = sentence.replace('Java', 'Python' )
+
+print(sentence)
+
+print('---------------------------------------')
+
+s = 'Hello Hello Hello'
+print(s.count('Hello'))
+
+s = 'pyTHON python PYTHON python'
+print(s.lower().count('python'))
+
+print('---------------------------------------')
+
+url = 'www.amazon.com'
+
+r1 = url.startswith('www.')
+print(r1)
+
+r2 = url.endswith('.com')
+print(r2)
+
+print('---------------------------------------')
+
+email = 'cydeo@yahoo.com'
+
+isGmail = email.endswith('gmail.com')
+isYahoo = email.endswith('yahoo.com')
+
+print(isGmail)
+print(isYahoo)
+
+
+
+
+
