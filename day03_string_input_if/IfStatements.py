@@ -30,6 +30,17 @@ if age >= 21:
 else:
     print('Not Eligible')
 
+print("-------------------------------")
+
+number = int(input('Enter a number: '))
+
+# Odd or Even
+
+if number % 2 == 0:
+    print(f'{number} is even number')
+else:
+    print(f'{number} is odd number')
+
 
 
 
