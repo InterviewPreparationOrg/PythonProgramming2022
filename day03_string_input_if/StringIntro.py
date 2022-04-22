@@ -49,5 +49,3 @@ r4 = s3[7:]
 print(r4)
 print(s3)
 
-
-

@@ -10,5 +10,3 @@ Topics: String Manipulation
 
 package name: day03_string_input_if
 
-
-

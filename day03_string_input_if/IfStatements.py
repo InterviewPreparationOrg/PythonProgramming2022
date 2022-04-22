@@ -41,8 +41,3 @@ if number % 2 == 0:
 else:
     print(f'{number} is odd number')
 
-
-
-
-
-

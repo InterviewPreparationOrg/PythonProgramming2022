@@ -104,6 +104,3 @@ print(isGmail)
 print(isYahoo)
 
 
-
-
-
