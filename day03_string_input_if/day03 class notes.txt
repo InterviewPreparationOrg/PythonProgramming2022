@@ -2,7 +2,11 @@ Python Programming Day03
 
 Topics: String Manipulation
 		Getting User Input
-		If Statements
+		If Statements:
+				Single If
+				If & else
+				multi-branch If
+				nested If
 
 package name: day03_string_input_if
 
