@@ -17,8 +17,6 @@
 					hourly_rate = 40
 					weekly_hours = 45
 
-
-
 				Output:
 					Hello Joshua, your salary is $ 93600.00
 """
