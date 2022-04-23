@@ -1,0 +1,68 @@
+Tasks:
+    1. Write a method which prints out the numbers from 1 to 100 butfor numbers
+    which are a multiple of both 3 and 5, print "FINRA" instead of the number,
+    for numbers which are a multiple of 3, print "FIN" instead of the number and for
+    numbers which are a multiple of 5, print "RA" instead of the number. 
+        
+        ex: 
+            output:
+                1 2 FIN 4 RA FIN 7 8 FIN RA 11 FIN 13 14 FINRA 16 17 FIN 
+
+
+	2. Write a program that can check if the string is palindrome
+			Ex:
+				input:
+					Anna
+
+				output:
+					true
+
+	3. Write a program that can remove the duplicated characters from the String
+
+			Ex:
+				input:
+					aaabbbbccccc
+
+				output:
+					abc
+
+
+	4. Write a program that can return the unique characters from the string
+
+			Ex:
+				input:
+					aaabcccd
+
+				output:
+					bd
+
+	5. Write a program that calculates the sum of numbers entered by the user until user enters a negative number.
+
+            hint: you need an infinite loop
+
+
+    6. you are writing a code for the log-in function of the Cydeo Application, assume that your credentials are:
+                    username: Cydeo
+                    password: Cydeo123
+
+        Ask the user to enter their credentials. 
+                If credentials are matched, your program should print "Logged in." 
+                If the credentials are not matched, the program should allow the user to
+                have three attempts to enter correct credentials and if all three
+                attempts are failed, then print "Your account is lucked."
+
+
+    7.  Write a program for the  marriage proposal program asking the user, "Will you marry me?"
+	    if the answer is yes, print "Congrats."
+	    if the answer is no, print "Goodbye"
+	    if the answer is neither yes nor no, print "Invalid answer, please re-enter"
+	    and repeat it until the user enters either yes or no
+
+
+
+
+
+
+
+
+
