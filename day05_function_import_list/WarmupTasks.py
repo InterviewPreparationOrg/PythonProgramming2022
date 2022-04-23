@@ -5,16 +5,25 @@ for x in numbers:
     if x % 2 == 0:
         print(x)
 
-
 """
 for x in numbers:
     if x % 2 != 0:  # odd number
-        continue
+        continue # skip
     print(x)
 """
 
 
 print("-----------------------------------------------------------------")
+
+classmates = (
+    "Juliette Blake", "Jillian Kane", "Joe Fitzpatrick", "Rodolfo Salinas", "Alexa Cook",
+    "Alfredo Stuart", "Audrey Eaton", "Noel Finley", "Salvatore Benjamin", "Kaitlynn Mason")
+
+for s in classmates:
+    print(s[0] + "." + s[s.index(' ')+1])
+
+
+
 
 
 """
