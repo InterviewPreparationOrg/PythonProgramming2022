@@ -77,8 +77,34 @@ r2 = email.endswith('gmail.com')
 
 print(r2)
 
+print("-------------------------------------------")
 
 
+def addition(n1, n2):
+    return n1 + n2
+
+
+x = 100
+y = 10
+
+r3 = addition(400, 500)
+
+print(r3)
+
+print("----------------------------------")
+
+
+def multiply(a, b):
+    return a * b
+
+
+def area_rectangle(width, length):
+    return multiply(width, length)
+
+
+q = area_rectangle(5, 4)
+
+print(q)
 
 
 
