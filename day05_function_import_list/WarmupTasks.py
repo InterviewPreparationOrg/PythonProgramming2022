@@ -26,6 +26,7 @@ for s in classmates:
 
 
 
+
 """
 1. Write a program that can display the even numbers from a tuple
 
