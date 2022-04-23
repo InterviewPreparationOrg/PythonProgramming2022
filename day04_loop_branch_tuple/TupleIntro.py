@@ -51,8 +51,3 @@ print(fruits)
 print(tuple2)
 
 
-
-
-
-
-
