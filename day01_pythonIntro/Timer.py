@@ -13,7 +13,7 @@ while minutes > 0:
     minutes -= 1
 
 
-print('\033[31m')
+print('\n\033[31m')
 print("\t\t\t* * * * * * * * * * * * * * * * * * * * * * * * * *")
 print("\t\t\t*                                                 *")
 print("\t\t\t*       Times is Up, Please take your seats!      *")
