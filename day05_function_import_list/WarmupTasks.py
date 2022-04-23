@@ -1,13 +1,24 @@
-Python Programming Day05
+numbers = (1, 2, 3, 4, 5, 6, 7)
 
-Topics: Function
-		Import Statement
-		List
 
-Package name: day05_function_import_list
+for x in numbers:
+    if x % 2 == 0:
+        print(x)
 
-Warmup tasks:
-	1. Write a program that can display the even numbers from a tuple
+
+"""
+for x in numbers:
+    if x % 2 != 0:  # odd number
+        continue
+    print(x)
+"""
+
+
+print("-----------------------------------------------------------------")
+
+
+"""
+1. Write a program that can display the even numbers from a tuple
 
 		Ex:
 			nubers = (1,2,3,4,5,6,7)
@@ -26,21 +37,4 @@ Warmup tasks:
 						C.S
 						P.P
 						J.P
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+"""
