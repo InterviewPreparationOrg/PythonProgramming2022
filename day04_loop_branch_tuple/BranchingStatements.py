@@ -31,3 +31,24 @@ while i < 5:
     if i == 3:
         continue
     print(i)
+
+print("---------------------------------------------")
+
+
+if True:
+    pass
+
+
+print('Test Completed')
+
+print("---------------------------------------------")
+
+for z in 'ABCDEF':
+    if z == 'C':
+        pass
+    print(z)
+
+
+
+
+
