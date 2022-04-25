@@ -1,0 +1,7 @@
+Python Programming Day06
+
+Topics: File Handling
+		Set
+		Dictionary
+
+Package name: day06_openFile_set_dictionary
