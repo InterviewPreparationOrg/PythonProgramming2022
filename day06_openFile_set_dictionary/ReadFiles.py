@@ -1,4 +1,4 @@
-file_path = '/Users/studio2/PycharmProjects/pythonProgramming2022/day06_openFile_set_dictionary/MyNotes1.txt'
+file_path = 'MyNotes1.txt'
 
 file = open(file_path, "r")
 
